@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sayh3x/H3X-Pull/main/main.jpg" style="max-width: 100%; height: auto;" alt="Git Pull logo">
 </p>
 
-# H3X-Pull-V2
+# H3X-Pull-V2-added
 
 ## Project Description
 This project provides a Python script that automatically performs a `git pull` whenever a new commit is detected in a specified Git repository. It is useful for developers who need to keep their repository updated without manually performing `git pull` operations.
